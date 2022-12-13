@@ -12,7 +12,7 @@
     "@fortawesome/fontawesome-free": "^5.14.0",
     "@mdi/font": "^3.6.95",
     "core-js": "^3.6.4",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "firebase": "^7.17.1",
     "roboto-fontface": "*",
     "sortablejs": "^1.10.2",
